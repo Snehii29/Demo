@@ -1,4 +1,4 @@
 # Demo
 This is my first Repositiry.
 <br>
-Author- Snehal thakur
+Author- Snehal Pravin thakur
